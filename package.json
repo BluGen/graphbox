@@ -1,0 +1,16 @@
+{
+  "name": "graphbox",
+  "version": "0.0.1",
+  "description": "Standalone graph generator using netbox api",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bernhard Pfafinger",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "express": "^4.17.1",
+    "vis-network": "^6.4.0"
+  },
+  "devDependencies": {}
+}
