@@ -9,7 +9,7 @@
   "author": "Bernhard Pfafinger",
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "vis-network": "^6.4.0"
   },
   "devDependencies": {}
